@@ -1,0 +1,381 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+.main{
+	height: 700px;
+	width: 1000px;
+	background-color: green;
+	background-image: url('image/nature1.png');
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
+}
+.sub1{
+	height: 8px;
+	width: 100px;
+	background-color:yellow;
+}
+.sub{
+	height: 180px;
+	width: 350px;
+	background-color: transparent;
+	float: left;
+	position: absolute;
+	bottom: 150px;
+	right: 400px;
+	/*left: 50px;*/
+}
+.trav{
+	padding-top: 450px ;
+	/*margin-left: 300px;*/
+	padding-left: 180px;
+	margin-left: 10px;
+	color: whitesmoke;
+	font-size: 20px;
+}
+	
+.vil{
+	padding-top: 500px;
+	padding-right: 700px;
+	margin-left: -60px;
+	color:black;
+	font-size: 10px;
+}
+.form{
+	/*text-align: left;*/
+	padding-left:165px ;
+	margin-top: -10px;
+}
+.but{
+	color: skyblue;
+	background-color: blue;
+}
+.main2{
+	height: 400px;
+	width: 1000px;
+	background-color:pink;
+	/*background-image: url('image/nature1.png');*/
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;
+
+}
+.sub2{
+	height: 400px;
+	width: 350px;
+	background-color:orange;
+}
+.mat{
+	/*padding-top: 80px;*/
+	margin-top: 40px;
+	/*font-size: 10px;*/
+}
+.but2{
+	background-color: green;
+	margin-top: 20px;
+}
+.sub3{
+	height: 400px;
+	width: 350px;
+	background-color:teal;
+
+}
+.sub4{
+	height: 400px;
+	width: 300px;
+	background-color:brown;
+	background-image: url('image/travel2.png');
+}
+.main3{
+	height: 600px;
+	width: 1000px;
+	background-color: pink;
+	margin-left: 260px;
+	/*margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	justify-content: center;*/
+}
+.sub5{
+	height: 180px;
+	width: 1000px;
+	background-color: gray;
+}
+.Best{
+	text-align: center;
+	color: yellow;
+}
+.cen{
+	text-align: center;
+	color: white;
+
+}
+.cc{
+	background-color: green;
+	height: 400px;
+	width: 1000px;
+}
+.sub6{
+	height: 400px;
+	width: 250px;
+	background-color: blue;
+	float: left;
+}
+.spa{
+	text-align: center;
+	font-size: 30px;
+	padding-top:100px;
+	padding-left: 110px;
+	/*margin-top: 100px;*/
+}
+.amaz{
+	text-align: center;
+
+}
+.sub7{
+	height: 400px;
+	width: 250px;
+	background-color: orange;
+	float: left;
+}
+.sub8{
+	height: 400px;
+	width: 250px;
+	background-color: brown;
+	float: left;
+}
+.sub9{
+	height: 400px;
+	width: 250px;
+	background-color: yellow;
+	float: left;
+}
+.main4{
+	height: 400px;
+	width:1000px;
+	background-color: skyblue;
+	background-image: url('image/travel3.jpg');
+	margin-left: 260px;
+}
+.cau1{
+	font-size: 30px;
+	padding-top: 120px;
+}
+.paris{
+	font-size: 20px;
+	padding-top: 10px;
+}
+.pari{
+	padding-top: 10px;
+	font-size: 30px;
+}
+.but3{
+	color: white;
+	background-color: yellow;
+	/*padding-bottom: 130px;*/
+	margin-left: 750px;
+	position: relative;
+	bottom: 115px;
+	/*margin-bottom: -40px;*/
+	font-size: 30px;
+}
+.main5{
+	height: 700px;
+	width:1000px;
+	background-color: skyblue;
+	margin-left: 260px;
+}
+.pop{
+	text-align: center;
+	padding-top: 30px;
+}
+.dev{
+	text-align: center;
+	padding-top: 5px;
+}
+.sub121{
+	height: 400px;
+	width: 300px;
+	background-color: yellow;
+	float: left;
+	margin-left: 10px;
+	/*padding-top: 1px;*/
+	margin-top: -1px;
+	background-image: url('image/travel4.jpg');
+
+}
+.baha{
+	padding-top: 430px;
+}
+.bar1{
+	height: 20px;
+	width: 100px;
+	background-color: yellow;
+	/*padding-top: 8px;*/
+	float: left;
+	margin-top: 20px;
+
+}
+.sub101{
+	height: 400px;
+	width: 300px;
+	background-color: black;
+	float: right;
+	margin-right: 20px;
+	/*padding-top: 1px;*/
+	margin-top: -1px;
+	background-image: url('image/travel5.png');
+
+}
+.goa{
+	padding-top: 430px;
+
+
+}
+.sub111{
+	height: 400px;
+	width: 300px;
+	background-color: blue;
+	float: left;
+	margin-left: 30px;
+	/*padding-top: 5px;*/
+	margin-top: -1px;
+	background-image: url('image/travel6.png');
+}
+.bali{
+	padding-top: 430px;
+
+}
+.main6{
+	height: 650px;
+	width:1000px;
+	background-color: transparent;
+	background-image: url('image/travel10.jpg');
+	margin-left: 260px;
+	background-repeat: no-repeat;
+}
+.abc{
+	height: 200px;
+	width: 420px;
+	float: left;
+	margin-left: 300px;
+	background-color: transparent;
+	/*background-image:url('image/profile1.png');*/
+}
+.sub20{
+	height: 200px;
+	width: 200px;
+	margin-left: 100px;
+	float: left;
+	margin-top: -450px;
+}
+.last{
+	padding-top: 400px;
+	font-size: 20px;
+	color: white;
+}
+.h11{
+	color: yellow;
+}
+.main7{
+	height: 400px;
+	width: 1000px;
+	background-color: black;
+	margin-left: 260px;
+}
+.classic1{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	float: left;
+	border: 2px solid black;
+
+}
+.spa1{
+	position: relative;
+	bottom: 130px;
+	left: 230px;
+	font-size: 20px;
+}
+.sunshine{
+	height: 400px;
+	width: 500px;
+	background-color: white;
+	float: right;
+	border: 2px solid black;
+	/*box-sizing: border-box;
+	background-image: url('image/hello.png');*/
+}
+.class1{
+	text-align: center;
+	margin-top: 100px;
+}
+.class2{
+	text-align: center;
+	font-family: cursive;
+}
+.aa{
+	text-align: center;
+	font-family:cursive;
+	position: relative;
+	top: 1px;
+}
+.main8{
+	height: 400px;
+	width:1000px;
+	background-color: yellow;
+	background-image:url('image/travel8.jpg');
+	margin-left: 260px;
+
+}
+.abc1{
+	height: 350px;
+	width: 200px;
+	background-color: yellow;
+	float: left;
+	margin-left: 45px;
+
+	/*background-image:url('image/travel9.png');*/
+}
+.vac{
+	/*text-align: center;*/
+	font-size: 27px;
+	padding-top: 7px;
+}
+.abc2{
+	height: 350px;
+	width: 180px;
+	margin-left: 25px;
+	background-color:yellow;
+	float: left;
+	/*background-image:url('image/travel9.png');*/
+	position: relative;
+	
+}
+.abc3{
+	height: 350px;
+	width: 190px;
+	background-color: yellow;
+	float: left;
+	margin-left: 25px;
+	/*background-image:url('image/travel9.png');*/
+}
+.abcd{
+	padding-top: 10px;
+}
+.abc4{
+	height: 350px;
+	width: 200px;
+	background-color: yellow;
+	float: left;
+	margin-left: 25px;
+	/*background-image:url('image/travel9.png');*/
+}
+.but5{
+	text-align: center;
+	background-color: white;
+}
